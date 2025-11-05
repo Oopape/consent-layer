@@ -1,0 +1,22 @@
+{
+  "version": "0.1",
+  "actions": {
+    "money": {
+      "undo_window_minutes": 120
+    },
+    "messaging": {
+      "undo_window_minutes": 10
+    },
+    "bookings": {
+      "undo_window_minutes": 120
+    }
+  },
+  "phrases": {
+    "confirm": "I confirm. Execute now.",
+    "stop": "Stop. Do not execute."
+  },
+  "emotional_hold": {
+    "enabled": true,
+    "cooldown_minutes": 10
+  }
+}
