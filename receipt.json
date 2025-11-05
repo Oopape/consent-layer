@@ -1,0 +1,10 @@
+{
+  "version": "0.1",
+  "action_id": "uuid",
+  "action_summary": "Example: Book Hilton Fri–Sun, total 420",
+  "consent_mode": "voice",
+  "consent_evidence_hash": "sha256:placeholder",
+  "timestamp": "ISO8601",
+  "undo_window_expires": "ISO8601",
+  "policy_version": "0.1"
+}
